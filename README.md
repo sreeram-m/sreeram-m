@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About me:
-Currently in my Pre-Final year of M.Tech Integrated Software Engineering at Vellore Institute of Technology, Vellore<br>
+Currently working as Co-op/Intern at AMD Hyderabad on Windows Graphics Display Driver Development, Vellore<br>
 
 
 ## 🌐 Socials:
