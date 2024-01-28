@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About me:
-Currently working as Co-op/Intern at AMD Hyderabad on Windows Graphics Display Driver Development, Vellore<br>
+Currently working as Co-op/Intern at AMD Hyderabad on Windows Graphics Display Driver Development, Hyderabad<br>
 
 
 ## 🌐 Socials:
